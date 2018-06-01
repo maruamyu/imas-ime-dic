@@ -21,6 +21,7 @@ maruamyu/imas-ime-dic
 	- ➚ … 「JOKER➚オールマイティ」
 	- è … 「Cafè Parade」
 	- 俠 … 「俠気乱舞」
+	- ✿ … 「花ざかりWeekend✿」
 
 ## 取り決め
 

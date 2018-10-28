@@ -28,6 +28,7 @@ maruamyu/imas-ime-dic
 上記想定環境から、以下のように決めます。
 
 - 文字コードは UTF-16 LE
+	- Windowsのメモ帳で扱えるようにするためBOM付きにする
 - 改行コードは CRLF
 
 ## License

@@ -31,6 +31,21 @@ maruamyu/imas-ime-dic
 	- Windowsのメモ帳で扱えるようにするためBOM付きにする
 - 改行コードは CRLF
 
+## 他形式へのコンバート
+
+リポジトリ内にある *convert_dic.go* を[Go言語](https://golang.org/)でコンパイルして実行すると
+*dist/* ディレクトリ以下にファイルが生成されます。
+
+- *gboard.zip* : Gboard(Android版)の単語リストにインポートするためのファイル
+- *macosx.plist* : Mac OS Xの「キーボード」→「ユーザー辞書」にドラッグ＆ドロップで登録するためのファイル
+- *skk-jisyo.imas.utf8* : SKK辞書ファイル (AquaSKKで動作確認済)
+
+```bash
+go get
+go build convert_dic.go
+./convert_dic
+```
+
 ## License
 
 リポジトリ内のテキストファイルは、MITライセンス下で配布されます。

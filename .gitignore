@@ -1,3 +1,4 @@
 dist/*
 convert_dic
 convert_dic.exe
+go.sum

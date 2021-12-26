@@ -2542,6 +2542,36 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>集貝はな</string>
+		<key>shortcut</key>
+		<string>ためがいはな</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>長野佑紀</string>
+		<key>shortcut</key>
+		<string>ながのゆき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>富田美憂</string>
+		<key>shortcut</key>
+		<string>とみたみゆ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>梅澤めぐ</string>
+		<key>shortcut</key>
+		<string>うめざわめぐ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>河瀬茉希</string>
+		<key>shortcut</key>
+		<string>かわせまき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>井上ほの花</string>
 		<key>shortcut</key>
 		<string>いのうえほのか</string>
@@ -2551,6 +2581,12 @@
 		<string>二ノ宮ゆい</string>
 		<key>shortcut</key>
 		<string>にのみやゆい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>安齋由香里</string>
+		<key>shortcut</key>
+		<string>あんざいゆかり</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4765,6 +4801,66 @@
 		<string>DIAMANT</string>
 		<key>shortcut</key>
 		<string>でぃあまんと</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>坂上陽三</string>
+		<key>shortcut</key>
+		<string>さかがみようぞう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>中川浩二</string>
+		<key>shortcut</key>
+		<string>なかがわこうじ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>佐藤貴文</string>
+		<key>shortcut</key>
+		<string>さとうたかふみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>石原章弘</string>
+		<key>shortcut</key>
+		<string>いしはらあきひろ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>狭間和歌子</string>
+		<key>shortcut</key>
+		<string>はざまわかこ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>三本昌史</string>
+		<key>shortcut</key>
+		<string>みもとまさふみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>高山祐介</string>
+		<key>shortcut</key>
+		<string>たかやまゆうすけ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>小美野日出文</string>
+		<key>shortcut</key>
+		<string>こみのひでふみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>北島奈緒</string>
+		<key>shortcut</key>
+		<string>きたじまなお</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>柏谷智浩</string>
+		<key>shortcut</key>
+		<string>かしわやこうじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

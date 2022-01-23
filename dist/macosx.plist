@@ -4588,6 +4588,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>希水しお</string>
+		<key>shortcut</key>
+		<string>きすいしお</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>結名美月</string>
 		<key>shortcut</key>
 		<string>ゆいなみづき</string>

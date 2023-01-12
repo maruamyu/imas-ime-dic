@@ -2650,6 +2650,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>原涼子</string>
+		<key>shortcut</key>
+		<string>はらすずこ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>佐藤利奈</string>
 		<key>shortcut</key>
 		<string>さとうりな</string>
@@ -2659,6 +2665,12 @@
 		<string>藤村歩</string>
 		<key>shortcut</key>
 		<string>ふじむらあゆみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>佐倉綾音</string>
+		<key>shortcut</key>
+		<string>さくらあやね</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

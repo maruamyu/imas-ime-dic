@@ -2656,6 +2656,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>小森結梨</string>
+		<key>shortcut</key>
+		<string>こもりゆり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>佐藤利奈</string>
 		<key>shortcut</key>
 		<string>さとうりな</string>
@@ -4222,6 +4228,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>シャニソン</string>
+		<key>shortcut</key>
+		<string>しゃにそん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>283プロダクション</string>
 		<key>shortcut</key>
 		<string>つばさぷろだくしょん</string>
@@ -4918,9 +4930,45 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>坂上陽三</string>
+		<string>ヴイアライヴ</string>
 		<key>shortcut</key>
-		<string>さかがみようぞう</string>
+		<string>ぶいあらいぶ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>vα-liv</string>
+		<key>shortcut</key>
+		<string>ぶいあらいぶ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>灯里愛夏</string>
+		<key>shortcut</key>
+		<string>ともりまなか</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>上水流宇宙</string>
+		<key>shortcut</key>
+		<string>かみずるこすも</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>レトラ</string>
+		<key>shortcut</key>
+		<string>れとら</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>サラ・レトラ・オリヴェイラ・ウタガワ</string>
+		<key>shortcut</key>
+		<string>さられとらおりべいらうたがわ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>波多野公士</string>
+		<key>shortcut</key>
+		<string>はたのこうじ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4933,12 +4981,6 @@
 		<string>佐藤貴文</string>
 		<key>shortcut</key>
 		<string>さとうたかふみ</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>石原章弘</string>
-		<key>shortcut</key>
-		<string>いしはらあきひろ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4972,9 +5014,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>勝股春樹</string>
+		<key>shortcut</key>
+		<string>かつまたはるき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>柏谷智浩</string>
 		<key>shortcut</key>
 		<string>かしわやこうじ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>石原章弘</string>
+		<key>shortcut</key>
+		<string>いしはらあきひろ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>坂上陽三</string>
+		<key>shortcut</key>
+		<string>さかがみようぞう</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

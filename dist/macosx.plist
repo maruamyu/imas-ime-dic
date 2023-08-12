@@ -3316,6 +3316,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>中村源太</string>
+		<key>shortcut</key>
+		<string>なかむらげんた</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>プロローグ・ルージュ</string>
 		<key>shortcut</key>
 		<string>ぷろろーぐるーじゅ</string>
@@ -4402,6 +4408,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>鈴木羽那</string>
+		<key>shortcut</key>
+		<string>すずきはな</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>郁田はるき</string>
+		<key>shortcut</key>
+		<string>いくたはるき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>真乃</string>
 		<key>shortcut</key>
 		<string>まの</string>
@@ -4555,6 +4573,18 @@
 		<string>ルカ</string>
 		<key>shortcut</key>
 		<string>るか</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>羽那</string>
+		<key>shortcut</key>
+		<string>はな</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>はるき</string>
+		<key>shortcut</key>
+		<string>はるき</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4732,6 +4762,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>三川華月</string>
+		<key>shortcut</key>
+		<string>みかわはるな</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>小澤麗那</string>
+		<key>shortcut</key>
+		<string>おざわれな</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>津田健次郎</string>
 		<key>shortcut</key>
 		<string>つだけんじろう</string>
@@ -4741,6 +4783,12 @@
 		<string>山村響</string>
 		<key>shortcut</key>
 		<string>やまむらひびく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>夏目響平</string>
+		<key>shortcut</key>
+		<string>なつめきょうへい</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4864,6 +4912,54 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>コメティック</string>
+		<key>shortcut</key>
+		<string>こめてぃっく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>CoMETIK</string>
+		<key>shortcut</key>
+		<string>こめてぃっく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ルビー</string>
+		<key>shortcut</key>
+		<string>るびー</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>有馬かな</string>
+		<key>shortcut</key>
+		<string>ありまかな</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>MEMちょ</string>
+		<key>shortcut</key>
+		<string>めむちょ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>伊駒ゆりえ</string>
+		<key>shortcut</key>
+		<string>いごまゆりえ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>潘めぐみ</string>
+		<key>shortcut</key>
+		<string>はんめぐみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>大久保瑠美</string>
+		<key>shortcut</key>
+		<string>おおくぼるみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ポップリンクス</string>
 		<key>shortcut</key>
 		<string>ぽっぷりんくす</string>
@@ -4930,6 +5026,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>ヴイアラ</string>
+		<key>shortcut</key>
+		<string>ぶいあら</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>ヴイアライヴ</string>
 		<key>shortcut</key>
 		<string>ぶいあらいぶ</string>
@@ -4960,9 +5062,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>愛夏</string>
+		<key>shortcut</key>
+		<string>まなか</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>宇宙</string>
+		<key>shortcut</key>
+		<string>こすも</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>サラ・レトラ・オリヴェイラ・ウタガワ</string>
 		<key>shortcut</key>
 		<string>さられとらおりべいらうたがわ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>雅楽川</string>
+		<key>shortcut</key>
+		<string>うたがわ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

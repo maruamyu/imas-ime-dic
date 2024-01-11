@@ -2662,6 +2662,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>大木咲絵子</string>
+		<key>shortcut</key>
+		<string>おおきさえこ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>松永あかね</string>
+		<key>shortcut</key>
+		<string>まつながあかね</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>佐藤利奈</string>
 		<key>shortcut</key>
 		<string>さとうりな</string>
@@ -2983,6 +2995,12 @@
 		<string>青羽美咲</string>
 		<key>shortcut</key>
 		<string>あおばみさき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>早坂そら</string>
+		<key>shortcut</key>
+		<string>はやさかそら</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -3319,6 +3337,12 @@
 		<string>中村源太</string>
 		<key>shortcut</key>
 		<string>なかむらげんた</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>杉山里穂</string>
+		<key>shortcut</key>
+		<string>すぎやまりほ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

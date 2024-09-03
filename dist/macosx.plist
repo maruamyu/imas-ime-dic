@@ -64,6 +64,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>関広見まつり</string>
+		<key>shortcut</key>
+		<string>せきひろみまつり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>関広見インターチェンジ</string>
+		<key>shortcut</key>
+		<string>せきひろみいんたーちぇんじ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>765プロダクション</string>
 		<key>shortcut</key>
 		<string>なむこぷろだくしょん</string>
@@ -5182,6 +5194,30 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>花海佑芽</string>
+		<key>shortcut</key>
+		<string>はなみうめ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>秦谷美鈴</string>
+		<key>shortcut</key>
+		<string>はたやみすず</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>十王星南</string>
+		<key>shortcut</key>
+		<string>じゅうおうせな</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>真城優</string>
+		<key>shortcut</key>
+		<string>ましろゆう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>十王邦夫</string>
 		<key>shortcut</key>
 		<string>じゅうおうくにお</string>
@@ -5224,9 +5260,27 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>佑芽</string>
+		<key>shortcut</key>
+		<string>うめ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>美鈴</string>
+		<key>shortcut</key>
+		<string>みすず</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>亜紗里</string>
 		<key>shortcut</key>
 		<string>あさり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>星南</string>
+		<key>shortcut</key>
+		<string>せな</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -5281,6 +5335,30 @@
 		<string>薄井友里</string>
 		<key>shortcut</key>
 		<string>うすいゆり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>松田彩音</string>
+		<key>shortcut</key>
+		<string>まつだあやね</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>春咲暖</string>
+		<key>shortcut</key>
+		<string>はるさきのん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>陽高真白</string>
+		<key>shortcut</key>
+		<string>ひたかましろ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>村田綾香</string>
+		<key>shortcut</key>
+		<string>むらたあやか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

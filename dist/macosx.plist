@@ -2668,6 +2668,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>市ノ瀬加那</string>
+		<key>shortcut</key>
+		<string>いちのせかな</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>小森結梨</string>
 		<key>shortcut</key>
 		<string>こもりゆり</string>
@@ -2725,6 +2731,12 @@
 		<string>米内佑希</string>
 		<key>shortcut</key>
 		<string>よないゆうき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>杉田智和</string>
+		<key>shortcut</key>
+		<string>すぎたともかず</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -4978,6 +4990,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>黒川あかね</string>
+		<key>shortcut</key>
+		<string>くろかわあかね</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>伊駒ゆりえ</string>
 		<key>shortcut</key>
 		<string>いごまゆりえ</string>
@@ -4993,6 +5011,12 @@
 		<string>大久保瑠美</string>
 		<key>shortcut</key>
 		<string>おおくぼるみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>石見舞菜香</string>
+		<key>shortcut</key>
+		<string>いわみまなか</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -5230,6 +5254,36 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>雨夜燕</string>
+		<key>shortcut</key>
+		<string>あまやつばめ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>賀陽燐羽</string>
+		<key>shortcut</key>
+		<string>かやりんは</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>藍井撫子</string>
+		<key>shortcut</key>
+		<string>あおいなでしこ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>白草四音</string>
+		<key>shortcut</key>
+		<string>しらくさしおん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>白草月花</string>
+		<key>shortcut</key>
+		<string>しらくさげっか</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>咲季</string>
 		<key>shortcut</key>
 		<string>さき</string>
@@ -5362,6 +5416,36 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>天音ゆかり</string>
+		<key>shortcut</key>
+		<string>あまねゆかり</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>浅見香月</string>
+		<key>shortcut</key>
+		<string>あさみかづき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>若井友希</string>
+		<key>shortcut</key>
+		<string>わかいゆうき</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>田中美海</string>
+		<key>shortcut</key>
+		<string>たなかみなみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>芹澤優</string>
+		<key>shortcut</key>
+		<string>せりざわゆう</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>大塚明夫</string>
 		<key>shortcut</key>
 		<string>おおつかあきお</string>
@@ -5371,6 +5455,18 @@
 		<string>古賀葵</string>
 		<key>shortcut</key>
 		<string>こがあおい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>袖屋璃空</string>
+		<key>shortcut</key>
+		<string>そでやりく</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>千春</string>
+		<key>shortcut</key>
+		<string>ちはる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -5413,6 +5509,12 @@
 		<string>小美野日出文</string>
 		<key>shortcut</key>
 		<string>こみのひでふみ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>小美野</string>
+		<key>shortcut</key>
+		<string>こみの</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

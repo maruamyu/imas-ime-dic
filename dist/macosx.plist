@@ -5164,6 +5164,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>100プロダクション</string>
+		<key>shortcut</key>
+		<string>じゅうおうぷろだくしょん</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>100プロ</string>
+		<key>shortcut</key>
+		<string>じゅうおうぷろ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>花海咲季</string>
 		<key>shortcut</key>
 		<string>はなみさき</string>
@@ -5284,6 +5296,18 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>氷渡香名江</string>
+		<key>shortcut</key>
+		<string>ひわたりかなえ</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>十王龍正</string>
+		<key>shortcut</key>
+		<string>じゅうおうりゅうせい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>咲季</string>
 		<key>shortcut</key>
 		<string>さき</string>
@@ -5335,6 +5359,18 @@
 		<string>星南</string>
 		<key>shortcut</key>
 		<string>せな</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>燐羽</string>
+		<key>shortcut</key>
+		<string>りんは</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>香名江</string>
+		<key>shortcut</key>
+		<string>かなえ</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -5455,6 +5491,18 @@
 		<string>古賀葵</string>
 		<key>shortcut</key>
 		<string>こがあおい</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>安倍彩野夏</string>
+		<key>shortcut</key>
+		<string>あべさやか</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>緑川光</string>
+		<key>shortcut</key>
+		<string>みどりかわひかる</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
